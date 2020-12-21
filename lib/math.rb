@@ -1,12 +1,4 @@
 def addition(num1, num2)
-  
-  num1 = 5
-  num2 = 15
-  
-  puts "num1 + num2"
-
-return num1
-return num2
 
 end
 
