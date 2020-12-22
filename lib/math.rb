@@ -29,7 +29,7 @@ end
 
 def modulo(num1, num2)
 
-  return 
+  return num1 % num2
   
 end
 
