@@ -36,6 +36,6 @@ end
 
 def square_root(num)
 
-  return num **
+  return num**
   
 end
