@@ -1,5 +1,6 @@
 def addition(num1, num2)
-   return num2 + num1
+  result = num2 + num1
+  return result
 end
 
 
